@@ -52,6 +52,7 @@ namespace DBTester3
         {
             SqlDataAdapter appDA;
             string sqlStr = "select * from appointment2 where bookdate=@bookdate";
+            sqlStr = "select top 100 * from appointment2 order by id desc";
 
             appDA = GetAppointDA(sqlStr, DBAccess.myConnStr, DateTime.Now.ToShortDateString());
             DataSet ds = new DataSet();

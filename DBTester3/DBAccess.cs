@@ -11,9 +11,7 @@ namespace DBTester3
 
         public static string GetLocalConnStr()
         {
-            string localConnStr = @"Data Source=localhost\SQLEXPRESS;Initial Catalog=labmgmt;User ID=sa;Password=jAb@2021#2fG";
-
-            return localConnStr;
+            return $"Server=localhost\\SQLEXPRESS;Database=labmgmt;Integrated Security=True;";
         }
 
         public static string getIPConnStr(string ipStr)

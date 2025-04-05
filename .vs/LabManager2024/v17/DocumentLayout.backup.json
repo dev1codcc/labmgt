@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Repos\\labmgt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|d:\\repos\\labmgt\\labregisterv1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|D:\\Repos\\labmgt\\labregisterv1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|solutionrelative:labregisterv1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|D:\\Repos\\labmgt\\labregisterv1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|d:\\repos\\labmgt\\labregisterv1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|solutionrelative:labregisterv1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "LabRegisterV1\\FrmMain.cs",
               "ToolTip": "D:\\Repos\\labmgt\\LabRegisterV1\\FrmMain.cs",
               "RelativeToolTip": "LabRegisterV1\\FrmMain.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAtwKUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAtwEAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T08:00:58.543Z",
               "EditorCaption": ""
@@ -86,8 +86,7 @@
               "ToolTip": "D:\\Repos\\labmgt\\DBTester3\\Form1.cs [Design]",
               "RelativeToolTip": "DBTester3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:04:04.391Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-05T08:04:04.391Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "DBTester3\\Form1.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAUwDYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T07:49:19.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T07:49:19.687Z"
             },
             {
               "$type": "Document",
