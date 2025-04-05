@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Repos\\labmgt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|d:\\repos\\labmgt\\dbtester3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|solutionrelative:dbtester3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|d:\\repos\\labmgt\\dbtester3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|solutionrelative:dbtester3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|d:\\repos\\labmgt\\dbtester3\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|solutionrelative:dbtester3\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|d:\\repos\\labmgt\\dbtester3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|solutionrelative:dbtester3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|d:\\repos\\labmgt\\labregisterv1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -28,6 +24,19 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Repos\\labmgt\\DBTester3\\Form1.cs",
+              "RelativeDocumentMoniker": "DBTester3\\Form1.cs",
+              "ToolTip": "D:\\Repos\\labmgt\\DBTester3\\Form1.cs",
+              "RelativeToolTip": "DBTester3\\Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:49:19.687Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
@@ -50,45 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Repos\\labmgt\\DBTester3\\Form1.cs",
-              "RelativeDocumentMoniker": "DBTester3\\Form1.cs",
-              "ToolTip": "D:\\Repos\\labmgt\\DBTester3\\Form1.cs [Design]*",
-              "RelativeToolTip": "DBTester3\\Form1.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:04:04.391Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Repos\\labmgt\\DBTester3\\Form1.cs",
-              "RelativeDocumentMoniker": "DBTester3\\Form1.cs",
-              "ToolTip": "D:\\Repos\\labmgt\\DBTester3\\Form1.cs*",
-              "RelativeToolTip": "DBTester3\\Form1.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwDYAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T07:49:19.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DBAccess.cs",
               "DocumentMoniker": "D:\\Repos\\labmgt\\DBTester3\\DBAccess.cs",
               "RelativeDocumentMoniker": "DBTester3\\DBAccess.cs",
-              "ToolTip": "D:\\Repos\\labmgt\\DBTester3\\DBAccess.cs",
-              "RelativeToolTip": "DBTester3\\DBAccess.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowA0AAAAnAAAAAAAAAA==",
+              "ToolTip": "D:\\Repos\\labmgt\\DBTester3\\DBAccess.cs*",
+              "RelativeToolTip": "DBTester3\\DBAccess.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T07:48:22.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "readme.txt",
               "DocumentMoniker": "D:\\Repos\\labmgt\\LabRegisterV1\\readme.txt",
               "RelativeDocumentMoniker": "LabRegisterV1\\readme.txt",
