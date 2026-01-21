@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "D:\\Repos\\labmgt\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|D:\\Repos\\labmgt\\labregisterv1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|solutionrelative:labregisterv1\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,6 +25,17 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|D:\\Repos\\labmgt\\labregisterv1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+=======
+      "AbsoluteMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|d:\\repos\\labmgt\\dbtester3\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|solutionrelative:dbtester3\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|d:\\repos\\labmgt\\dbtester3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2185FFB-1DB3-4594-860C-A8F415D6AFEF}|DBTester3\\DBTester3.csproj|solutionrelative:dbtester3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|d:\\repos\\labmgt\\labregisterv1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+>>>>>>> 7fc8b748106682dc6ed7eff5bee80d0d56c76d55
       "RelativeMoniker": "D:0:0:{EB2CCC72-BF65-4124-8D60-021A5843F8C3}|LabRegisterV1\\LabRegisterV1.csproj|solutionrelative:labregisterv1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -34,9 +46,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
           "Children": [
             {
+=======
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Repos\\labmgt\\DBTester3\\Form1.cs",
+              "RelativeDocumentMoniker": "DBTester3\\Form1.cs",
+              "ToolTip": "D:\\Repos\\labmgt\\DBTester3\\Form1.cs",
+              "RelativeToolTip": "DBTester3\\Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:49:19.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+>>>>>>> 7fc8b748106682dc6ed7eff5bee80d0d56c76d55
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -50,11 +85,16 @@
             },
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+=======
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+>>>>>>> 7fc8b748106682dc6ed7eff5bee80d0d56c76d55
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "FrmMain.cs",
               "DocumentMoniker": "D:\\Repos\\labmgt\\LabRegisterV1\\FrmMain.cs",
               "RelativeDocumentMoniker": "LabRegisterV1\\FrmMain.cs",
@@ -63,10 +103,21 @@
               "ViewState": "AgIAAC4AAAAAAAAAAAAtwEAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T08:00:58.543Z",
+=======
+              "Title": "DBAccess.cs",
+              "DocumentMoniker": "D:\\Repos\\labmgt\\DBTester3\\DBAccess.cs",
+              "RelativeDocumentMoniker": "DBTester3\\DBAccess.cs",
+              "ToolTip": "D:\\Repos\\labmgt\\DBTester3\\DBAccess.cs*",
+              "RelativeToolTip": "DBTester3\\DBAccess.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:48:22.727Z",
+>>>>>>> 7fc8b748106682dc6ed7eff5bee80d0d56c76d55
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "FrmMain.cs [Design]",
               "DocumentMoniker": "D:\\Repos\\labmgt\\LabRegisterV1\\FrmMain.cs",
@@ -115,6 +166,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 2,
+>>>>>>> 7fc8b748106682dc6ed7eff5bee80d0d56c76d55
               "Title": "readme.txt",
               "DocumentMoniker": "D:\\Repos\\labmgt\\LabRegisterV1\\readme.txt",
               "RelativeDocumentMoniker": "LabRegisterV1\\readme.txt",
@@ -122,7 +176,12 @@
               "RelativeToolTip": "LabRegisterV1\\readme.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+<<<<<<< HEAD
               "WhenOpened": "2025-02-20T14:41:05.573Z"
+=======
+              "WhenOpened": "2025-02-20T14:41:05.573Z",
+              "EditorCaption": ""
+>>>>>>> 7fc8b748106682dc6ed7eff5bee80d0d56c76d55
             }
           ]
         }
